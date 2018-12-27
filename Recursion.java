@@ -15,10 +15,13 @@ public class Recursion{
    
    
    //part3: fibonacci sequence non-recursion
-   for(int i=0;i<n;i++){
-      int a=
+   for(int i=3;i<n;i++){
+      int a=1；
+      int b=1;
+      int c = (a+i)+(b+a+i);
    }
-
+      return c;
+   
    
    
    //part4: fibonacci sequence recursion
